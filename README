@@ -1,0 +1,92 @@
+# Dua Qamar
+
+Computer Science student at California State University, Sacramento.  
+Focused on building practical software systems with strong foundations in data structures, operating systems, software engineering principles, and graphics programming.
+
+---
+
+## About Me
+
+I enjoy working across the stack — from systems-level programming in C/C++ and Assembly to building full-stack web applications with Node.js and React.
+
+At Sacramento State, I’m currently working on graphics programming (OpenGL/LWJGL) and operating systems concepts through hands-on projects. I like understanding how things work at a low level while still building practical applications.
+
+Currently looking for a Summer Software Engineering or IT internship.
+---
+
+## Tech Stack
+
+**Languages**  
+C · C++ · Java · Python · JavaScript · SQL · PHP · Assembly  
+
+**Backend & Databases**  
+Node.js · REST APIs · JWT Authentication · MySQL  
+
+**Frontend**  
+HTML · CSS · JavaScript · React  
+
+**Systems & Graphics**  
+Operating Systems Concepts · Process & Memory Management · OpenGL · LWJGL  
+
+**Tools**  
+Git · GitHub · Gradle · IntelliJ IDEA · Jira · SQL Workbench  
+
+---
+
+## Projects
+
+### OpenGL Graphics Engine (CSC 133 – Computer Graphics)
+Built a 2D/3D rendering application using Java and LWJGL.
+
+- Implemented transformation matrices and object movement  
+- Developed shader-based rendering pipeline  
+- Structured project using Gradle  
+- Applied real-time rendering and scene management concepts  
+
+---
+
+### Full-Stack Movie Review Platform
+TEDbooks
+Designed and built a secure web application with user authentication and database-backed review storage.
+
+- Implemented RESTful API using Node.js  
+- Integrated JWT-based authentication  
+- Designed relational database schema  
+- Built a responsive frontend interface  
+
+---
+
+### Systems Programming (Operating Systems Focus)
+Applied OS concepts, including process management, memory organization, and concurrency fundamentals.
+
+- Explored scheduling and resource management principles  
+- Strengthened understanding of low-level system behavior  
+- Practiced writing efficient and structured C/C++ code  
+
+---
+
+### Assembly Game Development
+Developed a graphical flappy bird game at the hardware interaction level.
+
+- Implemented control flow and memory manipulation  
+- Managed low-level graphics rendering  
+- Strengthened understanding of system architecture  
+
+---
+
+---
+
+## Interests
+
+Software Engineering  
+Systems Programming  
+Backend Development  
+Graphics Programming  
+Artificial Intelligence  
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/dua-qamar  
+Email: duaqamar@csus.edu
